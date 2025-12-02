@@ -1,31 +1,7 @@
 import React from "react";
 
 const Body = () => {
-  return (
-    <main style={styles.body}>
-      <div style={styles.card}>
-        <img src={"/leniv.jpg"} alt="Serhii Leniv" style={styles.photo} />
-        <div style={styles.textContainer}>
-          <h2 style={styles.name}>Serhii Leniv</h2>
-          <p style={styles.position}>UI/UX</p>
-        </div>
-      </div>
-      <div style={styles.card}>
-        <img src={"/kolymaha.jpg"} alt="Oleksandr Kolymaha" style={styles.photo} />
-        <div style={styles.textContainer}>
-          <h2 style={styles.name}>Oleksandr Kolymaha</h2>
-          <p style={styles.position}>Software engineer</p>
-        </div>
-      </div>
-      <div style={styles.card}>
-        <img src={"/bondarenko.jpg"} alt="Volodymyr Bondarenko" style={styles.photo} />
-        <div style={styles.textContainer}>
-          <h2 style={styles.name}>Volodymyr Bondarenko</h2>
-          <p style={styles.position}>BA</p>
-        </div>
-      </div>
-    </main>
-  );
+  return null;
 };
 
 const styles = {
