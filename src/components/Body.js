@@ -65,7 +65,7 @@ const styles = {
   name: {
     fontSize: "1em",
     fontWeight: "bold",
-    color: "#333",
+    color: "#6a0dad",
     margin: "0",
   },
   position: {
